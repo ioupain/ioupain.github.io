@@ -8,9 +8,6 @@ body {
 
 header {
     background-color: #848484;
-    color: #333;
-    text-align: Left;
-    font-family: Cambria, serif;
     max-width: 960px;
     margin: auto;
     border-top-left-radius: 20px;
@@ -20,14 +17,23 @@ header {
 .header-title {
     font-size: 28px;
     padding-left: 125px;
+    color: #333;
+    text-align: Left;
+    font-family: Cambria, serif;
+    display: block;
 }
 
 .header-tagline {
     font-size: 17px;
     padding-left: 130px;
+    color: #333;
+    text-align: Left;
+    font-family: Cambria, serif;
+    display: block;
 }
 
 header img {
+    display: inline;
     float: left;
     width: 100px;
     height: 100px;
@@ -58,7 +64,10 @@ nav a {
     display: block;
     color: #f2f2f2;
     text-align: center;
-    padding: 14px 16px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
     text-decoration: none;
     font-size: 17px;
 }
@@ -118,7 +127,22 @@ nav a:hover {
     color: #333;
     text-align: Left;
     font-family: Cambria, serif;
-    max-width: 960px;
+    max-width: 900px;
     margin: auto;
-    border-radius: 20px;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.content-title {
+    font-size: 28px;
+    padding-left: 125px;
+}
+
+.content-text {
+    font-size: 17px;
+    padding-left: 130px;
 }
