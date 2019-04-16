@@ -48,7 +48,6 @@ header img {
   background-color: #848484;
   max-width: 960px;
   margin: auto;
-
 }
 
 .content-title {
@@ -81,24 +80,67 @@ header img {
 
 .content-text .fas {
   padding-top: 0px;
-  padding-right: 0px;
+  padding-right: 10px;
   padding-bottom: 0px;
   padding-left: 0px;
 }
 
 .content-text .fab {
   padding-top: 0px;
-  padding-right: 0px;
+  padding-right: 10px;
   padding-bottom: 0px;
   padding-left: 0px;
 }
-
-.content-text .fab {
+/* 
+.content-text .fab:link {
   color:#333;
+}
+
+.content-text .fab:visited {
+  color:#39adf2;
 }
 
 .content-text .fab:hover {
   color:#39adf2;
+}
+
+.content-text .fab:active {
+  color:#39adf2;
+} */
+
+.content-text a:link {
+  color:#333;
+  text-decoration: underline;
+}
+
+.content-text a:visited {
+  color:#333;
+  text-decoration: underline;
+}
+
+ .content-text a:hover {
+  color:#f2f2f2;
+  text-decoration: none;
+}
+
+ .content-text a:active {
+  color:#39adf2;
+  text-decoration: none;
+}
+
+.content-text .fab {
+  vertical-align: middle;
+}
+
+.content-text .fas {
+  vertical-align: middle;
+}
+.content-text img {
+  vertical-align: middle;
+  padding-top: 0px;
+  padding-right: 10px;
+  padding-bottom: 0px;
+  padding-left: 0px;
 }
 
 /* Add a footer background colour and curved bottom corners */
