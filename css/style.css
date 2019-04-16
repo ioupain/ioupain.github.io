@@ -93,6 +93,14 @@ header img {
   padding-left: 0px;
 }
 
+.content-text .fab {
+  color:#333;
+}
+
+.content-text .fab:hover {
+  color:#39adf2;
+}
+
 /* Add a footer background colour and curved bottom corners */
 footer {
   background-color: #848484;
