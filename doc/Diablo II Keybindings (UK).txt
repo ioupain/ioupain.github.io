@@ -1,0 +1,63 @@
+Function             		Key/Button One		Key/Button Two
+Character Screen     		Y             		None
+Inventory Screen     		I             		None
+Party Screen         		P             		None
+Hireling Screen      		O             		None
+Message Log          		M             		None
+Quest Log            		U             		None
+Help Screen          		H             		None
+												
+Skill Tree           		T             		None
+Skill Speed Bar      		=             		None
+Skill 1              		Q             		None
+Skill 2              		W             		None
+Skill 3              		E             		None
+Skill 4              		R             		None
+Skill 5              		A             		None
+Skill 6              		S             		None
+Skill 7              		D             		None
+Skill 8              		F             		None
+Skill 9              		G             		None
+Skill 10             		X             		None
+Skill 11             		C             		None
+Skill 12             		6             		None
+Skill 13             		7             		None
+Skill 14             		8             		None
+Skill 15             		9             		None
+Skill 16             		F12           		None
+Select Previous Skill		[             		Mouse Wheel Down
+Select Next Skill    		]             		Mouse Wheel Up
+												
+Show Belt            		#             		None
+Use Belt 1           		1             		None
+Use Belt 2           		2             		None
+Use Belt 3           		3             		None
+Use Belt 4           		4             		None
+Swap Weapons         		Z             		None
+												
+Chat                 		Enter         		None
+Run                  		Ctrl          		None
+Toggle Run/Walk      		V             		None
+Stand Still          		Shift         		None
+Show Items           		Alt           		Space
+Show Portraits       		B             		None
+												
+Automap              		Tab           		None
+Center Automap       		J             		None
+Fade Automap         		K             		None
+Party on Automap     		L             		None
+Names on Automap     		;             		None
+Toggle Minimap       		@             		None
+												
+Say 'Help'           		Num Pad 0     		None
+Say 'Follow me'      		Num Pad 1     		None
+Say 'This is for you'		Num Pad 2     		None
+Say 'Thanks'         		Num Pad 3     		None
+Say 'Sorry'          		Num Pad 4     		None
+Say 'Bye'            		Num Pad 5     		None
+Say 'Now you die'    		Num Pad 6     		None
+Say 'Retreat'        		Num Pad 7     		None
+												
+Screen Shot          		Print Screen  		None
+Clear Screen         		,             		None
+Clear Messages       		N             		None
