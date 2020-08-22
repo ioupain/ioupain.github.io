@@ -1,0 +1,49 @@
+Cryodin
+
+STAT POINTS:
+
+STRENGTH:	Enough for gear
+DEXTERITY:	Enough for max block when Holy Shield is active
+VITALITY:	Everything else you can spare
+ENERGY:     0
+
+SKILL POINTS:
+
+DEFENSIVE AURAS:
+
+01  Prayer			    (A pre-requisite)
+--  Resist Fire
+01  Defiance            (A pre-requisite)
+20  Resist Cold         (Synergy for Holy Freeze) 
+01  Cleansing           (1 point wonder - Removes poison and curses)
+--  Resist Lightning    
+01  Vigor               (1 point wonder - run away from danger)
+--  Meditation          
+01  Redemption          (1 point wonder - dispose of corpses and stop resurrections while healing life and mana)
+01  Salvation           (Synergy for Holy Freeze)		
+
+OFFENSIVE AURAS:
+
+01  Might               (A pre-requisite)
+01  Holy Fire           (A pre-requisite)
+--  Thorns
+--  Blessed Aim
+--  Concentration
+20  Holy Freeze         (Main Skill)
+--  Holy Shock
+--  Sanctuary
+--  Fanaticism
+--  Conviction
+
+COMBAT SKILLS:
+
+20  Sacrifice           (Synergy for Zeal)	
+01  Smite               (A pre-requisite)             
+01  Holy Bolt           (A pre-requisite)  
+20  Zeal                (Main Skill) 
+01  Charge              (A pre-requisite)  
+--  Vengeance
+01  Blessed Hammer      (A pre-requisite)  
+--  Conversion
+01  Holy Shield         (1 point wonder - Increases blocking and blocking rate)
+--  Fist of the Heavens
