@@ -2,9 +2,9 @@ Cryodin
 
 STAT POINTS:
 
-STRENGTH:	Enough for gear
-DEXTERITY:	Enough for max block when Holy Shield is active
-VITALITY:	Everything else you can spare
+STRENGTH:   Enough for gear
+DEXTERITY:  Enough for max block when Holy Shield is active
+VITALITY:   Everything else you can spare
 ENERGY:     0
 
 SKILL POINTS:
