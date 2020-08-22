@@ -1,0 +1,57 @@
+Dual Sword Whirlwinder
+
+STAT POINTS:
+
+STRENGTH:	Enough for Gear
+DEXTERITY:	Enough for Gear
+VITALITY:   Everything else you can spare
+ENERGY:     0
+
+SKILL POINTS:
+
+Barbarian can wield 2 handed swords in one hand and swords are generally really nice to use as you have tonnes of options.
+
+COMBAT SKILLS:
+
+20  Whirlwind           (Main Skill)
+01  Berserk             (1 point wonder - use to kill physical immune monsters)
+01  Leap Attack         (1 point wonder - jump over rivers and obstacles)
+01  Leap                (1 point wonder - jump over rivers and obstacles but is superceded by Leap Attack)
+01  Concentrate         (Pre-requisite)
+01  Stun                (Pre-requisite)
+01  Bash                (Pre-requisite)
+01  Double Swing        (Not strictly necessary - but useful to make getting to level 30 more palatable as it attacks fast)
+
+COMBAT MASTERIES:
+
+20 Sword Mastery        (You're aiming to use swords for this build)
+01 Increase Speed       (1 point wonder)
+01 Increase Stamina     (1 point wonder)
+01 Iron Skin            (1 point wonder)
+10 Natural Resistance   (I've suggested this as you don't have high end gear, you can get away with 1 point and rely on +skills gear - this buffs your resistances)
+
+WARCRIES:
+
+20 Battle Orders        (Absolute must - this boosts your entire parties health and mana)
+20 Shout                (Boosts defense of whole party) 
+01 Find Item            (Can use to get rid of corpses and find items - good on those resurrecting foes - but Gabe will get redemption which is better to remove corpses)
+01 Battle Command       (Cast this first, it gives you a temporary +1 to all skill boost)
+01 Taunt                (Super useful - causes ranged attackes to stop shooting and walk over to you)
+01 Howl                 (Really useful to scare everything away if you're surrounded/mobbed)
+01 Find Potion          (pre-requisite)
+01 Battle Cry           (Good against Act Bosses)
+
+GAMEPLAY:
+
+Here's the order in which you cast your buffs, use echoing weapons (+warcry) on your switch slots:
+1. Go to a Waypoint and gather your party around you
+2. Cast Battle Command to boost your skills by +1
+3. Cast Battle Orders
+4. Cast Shout
+5. Switch back to main attacking weapons
+6. Kill stuff
+
+
+
+
+
