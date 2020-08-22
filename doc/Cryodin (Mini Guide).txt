@@ -11,7 +11,7 @@ SKILL POINTS:
 
 DEFENSIVE AURAS:
 
-01  Prayer			    (A pre-requisite)
+01  Prayer              (A pre-requisite)
 --  Resist Fire
 01  Defiance            (A pre-requisite)
 20  Resist Cold         (Synergy for Holy Freeze) 
