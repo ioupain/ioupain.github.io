@@ -80,7 +80,7 @@ Held Item:      Charcoal                    (Boosts Fire attacks)
 Move 1:         Flamethrower                (From TM35 - Game Corner)
 Move 2:         Bite                        (You already had this)
 Move 3:         Extreme Speed               (Level 49)
-Move 4:         Strength                    (You already had this)
+Move 4:         Strength                    (HM Strength - You already had this)
 
 ---
 
@@ -122,8 +122,8 @@ Ability:        Water Absorb
 Nature:                                     [Preferred nature is Modest (+Sp. Atk / -Atk)]
 Held Item:      Leftovers
 
-Move 1:         Ice Beam
-Move 2:         Surf
+Move 1:         Ice Beam                    (Level 31)
+Move 2:         Surf                        (HM Surf - You already had this)
 Move 3:         Body Slam / ???             (You already had this)
 Move 4:         Confuse Ray / ???           (You already had this)
 
@@ -152,9 +152,9 @@ Ability:        Keen Eye                    [Preferred competitve ability is Inn
 Nature:         Adamant (+Atk / -Sp. Atk)   [Preferred competitive nature is Adamant (+Atk / -Sp. Atk)]
 Held Item:      Stick
 
-Move 1:         Fly
-Move 2:         False Swipe
-Move 3:         Swords Dance
+Move 1:         Fly                         (HM Fly - you already had this)
+Move 2:         False Swipe                 (Level 46)
+Move 3:         Swords Dance                (Level 31)
 Move 4:         Cut                         (You already had this)
 
 ---
