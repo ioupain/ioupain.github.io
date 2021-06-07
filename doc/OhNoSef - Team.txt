@@ -1,7 +1,3 @@
-
-
-
-
 Hey @OhNoSef,
 
 I looked at your team and had a go at mapping out a potential team given your current pokemon.
@@ -59,8 +55,8 @@ Notes:
 Party:
 ------
 #1
-Nickname:       Yoruichi (https://static.wikia.nocookie.net/bleach/images/1/1c/662Shunko_-_Raiju_Senkei_-_Shunryu_Kokubyo_Senkei.png/revision/latest/scale-to-width-down/713?cb=20190518055813&path-prefix=en)
-Pokemon:        Eevee -> Jolteon (https://cdn2.bulbagarden.net/upload/b/bb/135Jolteon.png)
+Nickname:       Yoruichi                    (https://static.wikia.nocookie.net/bleach/images/1/1c/662Shunko_-_Raiju_Senkei_-_Shunryu_Kokubyo_Senkei.png/revision/latest/scale-to-width-down/713?cb=20190518055813&path-prefix=en)
+Pokemon:        Eevee -> Jolteon            (https://cdn2.bulbagarden.net/upload/b/bb/135Jolteon.png)
 Type:           Normal -> Electric
 Ability:        Run Away -> Volt Absorb
 Nature:         Modest (+Sp Atk / -Atk)     [Preferred competitive nature is Timid (+Spd / -Atk) but I prefer Modest as Jolteon already outspeeds so much]
@@ -74,8 +70,8 @@ Move 4:         Thunder                     (Level 52 - If it is Raining or when
 ---
 
 #2
-Nickame:        Yamamoto (https://static.wikia.nocookie.net/bleach/images/d/d2/Ep55YamamotoExposesTorso.png/revision/latest/scale-to-width-down/1000?cb=20210412055316&path-prefix=en)
-Pokemon:        Arcanine (https://cdn2.bulbagarden.net/upload/b/b8/059Arcanine.png)
+Nickame:        Yamamoto                    (https://static.wikia.nocookie.net/bleach/images/d/d2/Ep55YamamotoExposesTorso.png/revision/latest/scale-to-width-down/1000?cb=20210412055316&path-prefix=en)
+Pokemon:        Arcanine                    (https://cdn2.bulbagarden.net/upload/b/b8/059Arcanine.png)
 Type:           Fire
 Ability:        Flash Fire
 Nature:         Bold (+Def / -Atk)          [Preferred competitive nature as a special attacker is Modest (+Sp Atk / -Atk)]
@@ -89,8 +85,8 @@ Move 4:         Strength                    (You already had this)
 ---
 
 #3
-Nickname:       Ikkaku (https://static.wikia.nocookie.net/bleach/images/5/58/Episode_363_Ikkaku.png/revision/latest/scale-to-width-down/1000?cb=20120306112647&path-prefix=en)
-Pokemon:        Dugtrio (https://cdn2.bulbagarden.net/upload/e/e5/051Dugtrio.png)
+Nickname:       Ikkaku                      (https://static.wikia.nocookie.net/bleach/images/5/58/Episode_363_Ikkaku.png/revision/latest/scale-to-width-down/1000?cb=20120306112647&path-prefix=en)
+Pokemon:        Dugtrio                     (https://cdn2.bulbagarden.net/upload/e/e5/051Dugtrio.png)
 Type:           Ground
 Ability:        Sand Veil
 Nature:         Lonely (+Atk / -Def)        [Preferred nature is Hasty (+Spd / -Def) but Lonely is actually pretty good]
@@ -104,8 +100,8 @@ Move 4:         Slash                       (You already had this)
 ---
 
 #4
-Nickame:        Matsumoto (https://static.wikia.nocookie.net/bleach/images/0/02/Rangikumatsumoto.png/revision/latest/scale-to-width-down/704?cb=20090325204924&path-prefix=en)
-Pokemon:        Clefable (https://cdn2.bulbagarden.net/upload/a/a9/036Clefable.png)
+Nickame:        Matsumoto                   (https://static.wikia.nocookie.net/bleach/images/0/02/Rangikumatsumoto.png/revision/latest/scale-to-width-down/704?cb=20090325204924&path-prefix=en)
+Pokemon:        Clefable                    (https://cdn2.bulbagarden.net/upload/a/a9/036Clefable.png)
 Type:           Normal
 Ability:        Cute Charm
 Nature:         Bold (+Def / -Atk)          [Preferred competitive nature as a special attacker is Modest (+Sp Atk / -Atk)]
@@ -119,8 +115,8 @@ Move 4:         Counter                     (You already had this)
 ---
 
 #5
-Nickname:       Hitsugaya (https://static.wikia.nocookie.net/bleach/images/7/71/Ep48Hy%C5%8DrinmaruShikai.png/revision/latest/scale-to-width-down/1000?cb=20210411032224&path-prefix=en)
-Pokemon:        Lapras (https://cdn2.bulbagarden.net/upload/a/ab/131Lapras.png)
+Nickname:       Hitsugaya                   (https://static.wikia.nocookie.net/bleach/images/7/71/Ep48Hy%C5%8DrinmaruShikai.png/revision/latest/scale-to-width-down/1000?cb=20210411032224&path-prefix=en)
+Pokemon:        Lapras                      (https://cdn2.bulbagarden.net/upload/a/ab/131Lapras.png)
 Type:           Water/Ice
 Ability:        Water Absorb
 Nature:                                     [Preferred nature is Modest (+Sp. Atk / -Atk)]
@@ -134,8 +130,8 @@ Move 4:         Confuse Ray / ???           (You already had this)
 ---
 
 #6
-Nickname:       Shinji (https://static.wikia.nocookie.net/bleach/images/f/f6/Ep291ShinjiWithSakanade.png/revision/latest/scale-to-width-down/664?cb=20140624162741&path-prefix=en)
-Pokemon:        Kadabra (https://cdn2.bulbagarden.net/upload/9/97/064Kadabra.png)
+Nickname:       Shinji                      (https://static.wikia.nocookie.net/bleach/images/f/f6/Ep291ShinjiWithSakanade.png/revision/latest/scale-to-width-down/664?cb=20140624162741&path-prefix=en)
+Pokemon:        Kadabra                     (https://cdn2.bulbagarden.net/upload/9/97/064Kadabra.png)
 Type:           Psychic
 Ability:        Synchronise
 Nature:         ?                           [Preferred nature is Modest (+Sp. Atk / -Atk)]
